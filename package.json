@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@openzeppelin/contracts-ethereum-package": "^3.0.0",
-    "@openzeppelin/contracts": "^3.0.0"
+    "@openzeppelin/contracts": "^3.4.2"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.0",
